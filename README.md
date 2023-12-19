@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dngvmnh.
+- 👋 Hi, I’m [@dngvmnh](https://github.com/dngvmnh).
 - 👀 I’m interested in Computer Science, Robotics and Engineering.
 - 🌱 I’m currently a eleventh-grader at [VNU-HCM High School for the Gifted](https://ptnk.edu.vn/).
 - 📫 Contact me via student220211@ptnk.edu.vn.
