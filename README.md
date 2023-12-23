@@ -1,11 +1,8 @@
-# My name is Vu Minh Dang ([@dngvmnh](https://github.com/dngvmnh))
-
-_Eleventh-Grader at VNU-HCM High School for the Gifted_
-
-I’m interested in Computer Science, Robotics and Engineering
-
+**My name is Vu Minh Dang ([@dngvmnh](https://github.com/dngvmnh))**
+> _Eleventh-Grader at VNU-HCM High School for the Gifted_
+* 🔬  I’m interested in Computer Science, Robotics and Engineering
 * 🌍  I'm based in Ho Chi Minh City, Viet Nam
-* ✉️  You can contact me at [student220211@ptnk.edu.vn](mailto:student220211@ptnk.edu.vn)
+* ✉️  Contact me via [email](mailto:student220211@ptnk.edu.vn)
 
 <a href="https://www.github.com/dngvmnh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dngvmnh?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.x.com/dngvmnh" target="_blank" rel="noreferrer"><img
