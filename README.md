@@ -36,6 +36,6 @@ src="https://img.shields.io/twitter/follow/dngvmnh?logo=twitter&style=for-the-ba
 
 <a href="https://github.com/dngvmnh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dngvmnh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/dngvmnh/Trash_Collecting_Robot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dngvmnh&repo=Trash_Collecting_Robot&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dngvmnh/Cryptography" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dngvmnh&repo=Cryptography&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
