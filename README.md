@@ -3,6 +3,7 @@
 * 🔬  I’m interested in Computer Science, Robotics and Engineering
 * 🌍  I'm based in [Ho Chi Minh City](https://www.google.com/maps/place/hochi+minh+city/data=!4m2!3m1!1s0x317529292e8d3dd1:0xf15f5aad773c112b?sa=X&ved=2ahUKEwiIw8fqy6SDAxWEVd4KHan3DJAQh8EJegQIDBAA)
 * ✉️  Contact me via [Email](mailto:student220211@ptnk.edu.vn)
+* 🏆  Refer to my achievements: [Certificates](https://dngvmnh.notion.site/Certificates-43458d71127b4e2dbd02da553b923862?pvs=4).
 
 <a href="https://www.github.com/dngvmnh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dngvmnh?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.x.com/dngvmnh" target="_blank" rel="noreferrer"><img
