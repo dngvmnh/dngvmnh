@@ -5,7 +5,9 @@
 * ✉️  Contact me via: [Email](mailto:student220211@ptnk.edu.vn).
 * 🏆  Refer to my achievements: [Certificates](https://dngvmnh.notion.site/Certificates-43458d71127b4e2dbd02da553b923862?pvs=4).
 * 📂  Refer to my activities: [Portfolio](https://dngvmnh.notion.site/Portfolio-7fbe966938e9410a87355b26485e5c96?pvs=4).
+* 📑  My survey to my scholar profile: [Google Scholar](https://scholar.google.com/citations?hl=en&user=h1-3KhAAAAAJ&sortby=title&scilu=&scisig=AM0yFCkAAAAAZa_pripBJE8QRmcWHXHxmnHUOzI&gmla=AH70aAUoYMeCMD-RNhdpI0hhCHp6HBk_LiUj0tLnVv-KoEbBAdzEKo5a5lZQ4JJgUOEf0elzNRwGccAlKT8vhwWbZpdYw3dy0-m4EarWdiQ&sciund=15328025216618584794).
 * 🔥  My survey on climate change: [YouTube](https://www.youtube.com/watch?v=T7grZMQYJgM).
+
 
 <a href="https://www.github.com/dngvmnh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dngvmnh?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.x.com/dngvmnh" target="_blank" rel="noreferrer"><img
