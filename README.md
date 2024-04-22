@@ -3,7 +3,7 @@
 * 🔬  I’m interested in Computer Science, Robotics and Engineering.
 * 🌍  I'm based in: [Ho Chi Minh City](https://www.google.com/maps/place/hochi+minh+city/data=!4m2!3m1!1s0x317529292e8d3dd1:0xf15f5aad773c112b?sa=X&ved=2ahUKEwiIw8fqy6SDAxWEVd4KHan3DJAQh8EJegQIDBAA).
 * ✉️  Contact me via: [Email](mailto:student220211@ptnk.edu.vn).
-* 🎗️  Refer to my website: [Website](https://sites.google.com/view/dngvmnh/resume?authuser=0).
+* 🎗️  Refer to my website: [Website](https://sites.google.com/view/dngvmnh/home?authuser=0).
 * 🏆  Refer to my achievements: [Achievements](https://dngvmnh.notion.site/93f32b39d9594fefa56a4494abe922c8?v=e6f03be4bf2b4bfea88f81f7ee6612d0&p=750608099834461ab6574b7f404724e8&pm=c).
 * 🗃️  Refer to my Google Scholar: [Google Scholar](https://scholar.google.com/citations?hl=en&user=h1-3KhAAAAAJ&sortby=title&scilu=&scisig=AM0yFCkAAAAAZa_pripBJE8QRmcWHXHxmnHUOzI&gmla=AH70aAUoYMeCMD-RNhdpI0hhCHp6HBk_LiUj0tLnVv-KoEbBAdzEKo5a5lZQ4JJgUOEf0elzNRwGccAlKT8vhwWbZpdYw3dy0-m4EarWdiQ&sciund=15328025216618584794).
 * 🔥  My survey on climate change: [YouTube](https://www.youtube.com/watch?v=T7grZMQYJgM).
