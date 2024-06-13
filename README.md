@@ -4,7 +4,7 @@
 * 🔬  I’m interested in Computer Science, Robotics and Engineering.
 * 🗺️  I'm based in: [Ho Chi Minh City](https://www.google.com/maps/place/hochi+minh+city/data=!4m2!3m1!1s0x317529292e8d3dd1:0xf15f5aad773c112b?sa=X&ved=2ahUKEwiIw8fqy6SDAxWEVd4KHan3DJAQh8EJegQIDBAA).
 * ✉️  Contact me via: [Email](mailto:student220211@ptnk.edu.vn).
-* 🌍  Learn more about me: [Website]([mailto:student220211@ptnk.edu.vn](https://sites.google.com/view/dngvmnh/home?authuser=0)).
+* 🌍  Learn more about me: [Website](https://sites.google.com/view/dngvmnh/home).
 
 # Skills
 
