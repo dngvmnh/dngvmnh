@@ -5,4 +5,4 @@
 * ✉️  Contact me via: [Email](mailto:student220211@ptnk.edu.vn).
 * 🌍  Learn more about me: [Portfolio](https://sites.google.com/view/dngvmnh/home).
 * 📰  Refer to my blog: [Hominiter](https://dngvmnh.github.io/Hominiter).
-* ☁️  Refer to my automatic weather station: [AWS](https://dngvmnh.github.io/Hominiter](https://dngvmnh.github.io/Automatic_Weather_Station).
+* ☁️  Refer to my automatic weather station: [AWS](https://dngvmnh.github.io/Automatic_Weather_Station).
